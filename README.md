@@ -6,6 +6,6 @@ You can play with the calculator here: https://solturipe.github.io/Calculator/
 
 ## Technologies:
 
-* HTML
-* CSS
-* JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
